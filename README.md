@@ -33,7 +33,7 @@ This contrasts with simple narratives of an "ESG premium" and highlights the imp
 
 ## Methodology
 
-**Universe**: S&P 100 stocks (2019-2025)
+**Universe**: S&P 100 stocks (2019-2025) - data from Refinitiv
 
 **ESG Data**: LSEG (London Stock Exchange Group) scores on a 0-100 scale
 
