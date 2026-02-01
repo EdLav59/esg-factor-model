@@ -18,6 +18,20 @@ The analysis reveals an inverted-U pattern - mid-range ESG stocks significantly 
 
 The long-short ESG factor (High minus Low) generated only 0.3% annually before costs and 0.07% after transaction costs so, economically zero.
 
+## Installation
+bashpip install -r requirements.txt
+python esg_factor.py
+Requires: pandas, numpy, matplotlib, seaborn, statsmodels, scipy, openpyxl
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python esg_factor.py
+```
+
+Requires: pandas, numpy, matplotlib, seaborn, statsmodels, scipy, openpyxl
+
 ## Interpretation
 
 The non-linear relationship suggests:
@@ -88,8 +102,6 @@ This project was developed to demonstrate:
 - Statistical hypothesis testing
 - Understanding of when factors don't work
 - Realistic transaction cost modeling
-
-The negative result is more valuable than finding a spurious effect - it reflects genuine market efficiency and distinguishes ESG as a values-alignment tool rather than an alpha source.
 
 ---
 
